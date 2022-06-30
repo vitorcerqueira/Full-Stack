@@ -5,6 +5,7 @@ h1 {
 
 li {
     color: rgba(43, 116, 199, 0.984);
+    
 }
 
 body {
@@ -13,3 +14,9 @@ body {
     background-size: cover;
 
 }
+.big-text{
+        color:rgb(255, 0, 0);
+    }
+    .moon{
+        color: blueviolet;
+    }
