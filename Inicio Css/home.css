@@ -4,11 +4,14 @@ body {
 
 h4 {
     color: #f1c40f;
+    font-family: Bebas Neue;
 }
 
 h3 {
     background-color: #f1c40f;
     border: 2px solid black;
+    font-family: Bebas Neue;
+    
 }
 
 .moon {
@@ -17,7 +20,9 @@ h3 {
 
 li {
     color: rgb(255, 255, 255);
+
 }
 h1 {
     color: rgb(255, 255, 255);
+    font-family: Bebas Neue;
 }
