@@ -1,21 +1,15 @@
 h1{
     color: black;
-    font-family: 'Montserrat';font-size: 22px;
-
+    font-family: 'Montserrat'; 
 }
-h5{
-    color: black;
-    
-}
-h3{
+h6{
    color: #008080;
-   
+   font-family: 'roboto';  
 }
 body{
-    margin: 45px 320px 150px 200px;
-    
+    margin: 45px 320px 150px 200px;   
 }
 div{
-    background-color: #f7e3e3
+    background-color: #f7e3e3;
 }
 
