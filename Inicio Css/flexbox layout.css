@@ -7,12 +7,26 @@
 .container {
     background-color: darkgrey;
     min-height: 100vh;
+    display: flex;
+    gap: 0px 15px;
+    column-gap: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  
 }
 
 .item {
     width: 200px;
     height: 200px;
-    border: 2px solid black;
+    border: 2px solid rgb(14, 13, 13);
     background: white;
+    display: flex;
     font-size: 20px;
+    justify-content: center;
+    align-items:center;
+    
+    
+    
+  
 }
