@@ -17,7 +17,7 @@
 }
 
 .item {
-    /*width: 200px; */
+    width: 200px;
     height: 200px;
     border: 2px solid rgb(14, 13, 13);
     background: white;
@@ -28,8 +28,3 @@
     flex-basis: 200px;
 }
 
-.item1 {}
-
-.item2 {}
-
-.item3 {}
