@@ -13,16 +13,23 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-  
+
 }
 
 .item {
-    width: 200px;
+    /*width: 200px; */
     height: 200px;
     border: 2px solid rgb(14, 13, 13);
     background: white;
     display: flex;
     font-size: 20px;
     justify-content: center;
-    align-items:center;
+    align-items: center;
+    flex-basis: 200px;
 }
+
+.item1 {}
+
+.item2 {}
+
+.item3 {}
